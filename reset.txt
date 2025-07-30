@@ -1,2 +1,0 @@
-reset demo line
-new line
